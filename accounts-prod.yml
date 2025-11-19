@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank Accounts related PROD APIs "
+  contactDetails:
+    name: "Anubhav Vihaan - Developer"
+    email: "anubhav@eazybank.com"
+  onCallSupport:
+    - (452) 456-2176
+    - (546) 764-8934

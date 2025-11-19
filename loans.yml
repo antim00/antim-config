@@ -1,0 +1,12 @@
+springdoc:
+  api-docs:
+    version: OPENAPI_3_0
+
+loans:
+  message: "Welcome to EazyBank loans related local APIs "
+  contactDetails:
+    name: "Amaal Grega - Developer"
+    email: "grega@eazybank.com"
+  onCallSupport:
+    - (452) 456-2000
+    - (546) 764-8000

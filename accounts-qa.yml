@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank Accounts related QA APIs "
+  contactDetails:
+    name: "Antim Verma - Developer"
+    email: "antimvermna@eazybank.com"
+  onCallSupport:
+    - (452) 456-4000
+    - (546) 764-5000

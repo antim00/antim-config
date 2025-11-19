@@ -1,0 +1,15 @@
+springdoc:
+  api-docs:
+    version: OPENAPI_3_0
+
+build:
+  version: "4.0"
+
+cards:
+  message: "Welcome to EasyBank Cards related local APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "jonh@easyBank.com"
+  onCallSupport:
+    - (555)555-1234
+    - (555)550-1244

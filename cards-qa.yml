@@ -1,0 +1,10 @@
+build:
+  version: "6.0"
+cards:
+  message: "Welcome to EasyBank Cards related QA APIs"
+  contactDetails:
+    name: "John Doe - QA Developer"
+    email: "jonhDoe@easyBank.com"
+  onCallSupport:
+    - (555)555-4230
+    - (555)550-4240

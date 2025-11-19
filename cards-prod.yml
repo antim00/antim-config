@@ -1,0 +1,11 @@
+build:
+  version: "5.0"
+
+cards:
+  message: "Welcome to EasyBank Cards related PROD APIs"
+  contactDetails:
+    name: "John Doe - PROD Developer"
+    email: "jonh@easyBank.com"
+  onCallSupport:
+    - (555)555-1230
+    - (555)550-1240
