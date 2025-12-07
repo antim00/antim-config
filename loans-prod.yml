@@ -2,7 +2,7 @@ build:
   version: "20.0"
 
 loans:
-  message: "Welcome to EazyBank loans related PRODuction... APIs "
+  message: "Welcome to EazyBank loans related prod APIs "
   contactDetails:
     name: "Anubhav Vihaan - Prod Developer"
     email: "anubhavvihaan@eazybank.com"
