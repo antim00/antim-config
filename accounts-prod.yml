@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank Accounts related PRODUCTION... APIs "
+  message: "Welcome to EazyBank Accounts related webhook docker APIs "
   contactDetails:
     name: "Anubhav Vihaan - Developer"
     email: "anubhav@eazybank.com"
