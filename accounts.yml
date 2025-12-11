@@ -6,7 +6,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EasyBank Accounts related WEBHOOK APIs"
+  message: "Welcome to EasyBank Accounts related local APIs"
   contactDetails:
     name: "John Doe - Developer"
     email: "jonh@easyBank.com"
